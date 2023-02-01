@@ -29,6 +29,12 @@ Amante de la tecnologia, software y hardware desde que tengo memoria,
 conocer acerca de la programacion fue algo unico para mi, estoy emocionado
 por seguir aprendiendo mas. 🚀<br>
 
+
+<h3 align="left">📊 Estadísticas: </h3>
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=francoarenas&show_icons=true&theme=gruvbox)
+
+
 <h2 align="left">:heart: Vamos a conectarnos:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-francoarenas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/imsivram1999/](https://www.linkedin.com/in/franco-arenas/))](https://www.linkedin.com/in/franco-arenas/) [![Gmail Badge](https://img.shields.io/badge/-@franco_developer-D7008A?style=flat-square&labelColor=D7008A&logo=gmail&logoColor=white&link=mailto:franco.developer.200@gmail.com)](mailto:franco.developer.200@gmail.com)
