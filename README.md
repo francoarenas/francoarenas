@@ -23,9 +23,11 @@
 
 <h2 align="left">👨🏻‍💻 Acerca de mí:</h2>
 
+¡Hola! 👋 Mi nombre es Franco. Comence mi camino en el mundo del Desarrolo Web hace 9 meses. Actualmente me encuentro certificado como Full Stack Developer en el bootcamp de Henry, sumando mas de +1200 horas de experiencia academica en programacion con proyectos reales, individuales y grupales.
+
 Amante de la tecnologia, software y hardware desde que tengo memoria,
 conocer acerca de la programacion fue algo unico para mi, estoy emocionado
-por seguir aprendiendo mas.<br>
+por seguir aprendiendo mas. 🚀<br>
 
 <h2 align="left">:heart: Vamos a conectarnos:</h2>
 
