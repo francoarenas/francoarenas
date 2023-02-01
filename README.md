@@ -30,7 +30,7 @@ conocer acerca de la programacion fue algo unico para mi, estoy emocionado
 por seguir aprendiendo mas. 🚀<br>
 
 <h3 align="left">📊 Estadísticas: </h3>
-#
+
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=francoarenas&show_icons=true&theme=gruvbox)
 
 
