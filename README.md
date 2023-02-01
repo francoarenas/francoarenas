@@ -7,7 +7,7 @@
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Tecnologías:</h2>
-<p align="left">
+
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -29,11 +29,11 @@ Amante de la tecnologia, software y hardware desde que tengo memoria,
 conocer acerca de la programacion fue algo unico para mi, estoy emocionado
 por seguir aprendiendo mas. 🚀<br>
 
-
-<h3 align="left">:heart: 📊 Estadísticas: </h3>
+<br>
+<h3 align="left">📊 Estadísticas: </h3>
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=francoarenas&show_icons=true&theme=gruvbox)
-<p align="left">
+
 
 <h2 align="left">:heart: Vamos a conectarnos:</h2>
 
